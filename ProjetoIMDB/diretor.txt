@@ -1,0 +1,2 @@
+3;Quentin Tarantino;70;New York - USA;1;10
+4;Diretor Famoso;32;Sao Paulo - Brasil;3;3
